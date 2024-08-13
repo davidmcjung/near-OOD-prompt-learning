@@ -49,14 +49,3 @@ pip install -r requirements.txt
 
 ## Scripts
 All scripts to reproduce experiments are stored at `scripts/*.sh`.
-
-## Citation
-If you are using our codes, please cite our work
-```
-@article{jung2024enhancing,
-  title={Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs},
-  author={Jung, Myong Chol and Zhao, He and Dipnall, Joanna and Gabbe, Belinda and Du, Lan},
-  journal={arXiv preprint arXiv:2405.16091},
-  year={2024}
-}
-```
