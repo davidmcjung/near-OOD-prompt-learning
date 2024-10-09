@@ -1,5 +1,5 @@
 # Near-OOD Prompt Learning
-This respository is the official implementation of "Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs". The repository contains models based on [MaPLe repository](https://github.com/muzairkhattak/multimodal-prompt-learning/tree/main) and [KgCoOp repository](https://github.com/htyao89/KgCoOp/tree/main). 
+This respository is the official implementation of "[Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs](https://arxiv.org/abs/2405.16091)". The repository contains models based on [MaPLe repository](https://github.com/muzairkhattak/multimodal-prompt-learning/tree/main) and [KgCoOp repository](https://github.com/htyao89/KgCoOp/tree/main). 
 
 ## Data Preparations
 Follow the official guidelines of [CoOp](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md) to download
